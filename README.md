@@ -14,6 +14,7 @@ The 2d array can then be used to print the symbols into a different color using 
 ## Possible improvements
 - Be able to give as input a list of vertical pattern and a list of horizontal pattern in order to colorize 2d arrays of symbols rather than only 1d lines.
 
+<!-- language: lang-none -->
 
                                  .,,-~~-,                                  
                            .,-:;!====!====;;-. -=!!!:-.                    
